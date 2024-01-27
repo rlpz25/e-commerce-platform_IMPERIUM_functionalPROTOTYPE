@@ -2,7 +2,7 @@
 
 IMPERIUM is an easy to use e-commerce platform app.
 
-It is a school project prototype, may be bugs and some bad code practice usages. (But it works!! :D)
+It is a school project prototype, may be bugs and some bad code practice usages.
 
 ### What can this code do:
 
